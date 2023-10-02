@@ -6,6 +6,5 @@ This application uses the free API whose link is provided below.
 https://github.com/pgrimaud/horaires-ratp-api
 
 # Screenshot
-![alt text](1.jpg)
-![alt text](2.jpg)
-![alt text](3.jpg)
+![alt text](image2.jpg)
+![alt text](image3.jpg)
