@@ -1,4 +1,4 @@
-# Build and Deploy: Flutter RATP application
+# Build Flutter RATP application
 This is a repository for a Flutter application to display real-time traffic RATP (RER, Metro, Tramway) status
 
 # API
