@@ -1,16 +1,10 @@
-# transit_alerts
+# Build and Deploy: Flutter RATP application
+This is a repository for a Flutter application to display real-time traffic RATP (RER, Metro, Tramway) status
 
-A new Flutter project.
+# API
+This application uses the free API whose link is provided below.
+https://github.com/pgrimaud/horaires-ratp-api
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot
+![alt text](image2.jpg)
+![alt text](image3.jpg)
