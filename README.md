@@ -24,6 +24,12 @@ Follow the steps below to run the app on your local machine. You'll need to make
 This application uses the free API whose link is provided below.
 https://github.com/pgrimaud/horaires-ratp-api
 
+## Contributors
+
+<a href="https://github.com/badiniibrahim/flutter_ratp_trafic/graphs/contributors">
+  <img alt="List of contributors to this repository" src="https://contrib.rocks/image?repo=badiniibrahim/flutter_ratp_trafic" />
+</a>
+
 # Screenshot
 ![alt text](1.jpeg)
 ![alt text](2.jpeg)
