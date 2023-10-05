@@ -11,8 +11,6 @@ This is a repository for a Flutter application to display real-time traffic RATP
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
 
-# Download the app
-https://play.google.com/store/apps/details?id=com.badiniibrahim.db_movie&hl=fr
 
 # Getting Started
 Follow the steps below to run the app on your local machine. You'll need to make sure you have flutter installed along with that Android Studio and XCode installed too in order to test this application in a simulator. Let me know if you encounter issues with the app
