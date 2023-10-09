@@ -18,6 +18,9 @@ This is a repository for a Flutter application to display real-time traffic RATP
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <img src="https://img.shields.io/github/license/Yuberley/ChatGPT-App-React-Native-TypeScript?style&color=5D6D7E" alt="GitHub license" />
 
+## App link
+https://play.google.com/store/apps/details?id=com.badiniibrahim.transit_alerts&hl=fr&gl=US
+
 
 # Getting Started
 Follow the steps below to run the app on your local machine. You'll need to make sure you have flutter installed along with that Android Studio and XCode installed too in order to test this application in a simulator. Let me know if you encounter issues with the app
